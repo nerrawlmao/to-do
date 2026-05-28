@@ -2,7 +2,7 @@
   <img src="app/src/main/ic_launcher-playstore.png" width="120" height="120" alt="Notes Logo">
 </p>
 
-<h1 align="center">📝 ToDo Notes</h1>
+<h1 align="center">Notes</h1>
 
 <p align="center">
   <em>A modern note-taking app built with Jetpack Compose & Material 3</em>
