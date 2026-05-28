@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="app/src/main/ic_launcher-playstore.png" width="120" height="120" alt="To-Do Logo">
+  <img src="app/src/main/ic_launcher-playstore.png" width="120" height="120" alt="Notes Logo">
 </p>
 
-<h1 align="center">To-Do</h1>
+<h1 align="center">Notes</h1>
 
 <p align="center">
-  <em>A minimal to-do app built with Jetpack Compose & Material 3</em>
+  <em>A note-taking app with checklist support built with Jetpack Compose & Material 3</em>
 </p>
 
 <p align="center">
@@ -19,13 +19,14 @@
 
 ## Features
 
-- Create, edit & delete tasks
+- Create, edit & delete notes
 - Drag-to-reorder tabs and items
 - Tab-based organization
-- Search through tasks
+- Search through notes
 - Material 3 Design with dark mode
 - Home screen widget (Glance App Widget)
 - Persistent storage via Room database
+- Each note can contain a checklist of todo items
 
 ## Download
 
