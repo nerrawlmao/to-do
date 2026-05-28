@@ -1,4 +1,8 @@
-# To-Do Notes
+<p align="center">
+  <img src="app/src/main/res/mipmap-xhdpi/ic_banner.png" width="200" alt="To-Do Logo" />
+</p>
+
+# To-Do
 
 A modern, feature-rich To-Do application for Android built with **Kotlin** and **Jetpack Compose**.
 
@@ -33,29 +37,6 @@ A modern, feature-rich To-Do application for Android built with **Kotlin** and *
 | **Widget** | Jetpack Glance 1.1.1 |
 | **Drag & Drop** | `composereorderable` 0.9.6 |
 | **Min / Target SDK** | 26 / 34 |
-
-## Getting Started
-
-### Prerequisites
-
-- Android Studio (latest stable)
-- Android SDK 34+
-- JDK 17+
-
-### Build & Run
-
-```bash
-git clone https://github.com/your-username/notes.git
-cd notes
-
-# Build debug APK
-./gradlew assembleDebug
-
-# Install on connected device
-./gradlew installDebug
-```
-
-Or open the project in **Android Studio** and run the `:app` configuration.
 
 ## License
 
