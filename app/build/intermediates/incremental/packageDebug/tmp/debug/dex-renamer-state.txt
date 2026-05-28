@@ -1,15 +1,15 @@
-#Thu May 28 20:42:40 CST 2026
-base.0=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.10=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
-base.2=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.3=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.4=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.5=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.6=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
-base.7=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.8=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\global_synthetics_dex\\debug\\mergeDebugGlobalSynthetics\\classes.dex
-base.9=C\:\\Codes\\Apps\\To-Do List\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Thu May 28 20:53:41 CST 2026
+base.0=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.10=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+base.2=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.4=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.5=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.6=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.7=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.8=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\global_synthetics_dex\\debug\\mergeDebugGlobalSynthetics\\classes.dex
+base.9=C\:\\Codes\\Apps\\Notes\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=classes3.dex
