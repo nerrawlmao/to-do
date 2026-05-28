@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="app/build/intermediates/packaged_res/debug/packageDebugResources/mipmap-xhdpi-v4/ic_banner_foreground.png" width="160" alt="To-Do Logo" style="border-radius: 50%;" />
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="160" alt="To-Do Logo" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <strong>To-Do</strong>
+  <span style="font-size: 2em; font-weight: bold;">To-Do</span>
 </p>
 
 <p align="center">
-  A modern, feature-rich To-Do application for Android built with <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.
+  <em>A modern, feature-rich To-Do application for Android built with <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.</em>
 </p>
 
 <p align="center">
